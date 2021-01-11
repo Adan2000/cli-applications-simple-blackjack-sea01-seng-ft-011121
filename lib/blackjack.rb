@@ -1,5 +1,5 @@
 def welcome
-
+puts "Welcome to black"
 end
 
 def deal_card
