@@ -7,7 +7,7 @@ rand(1..11)
 end
 
 def display_card_total
-puts "Your card add up to "
+puts "Your cards add up to "
 end
 
 def prompt_user
